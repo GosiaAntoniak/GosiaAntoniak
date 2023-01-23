@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 
-🙍 About me //in-progress
+🙍 About me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on developing an application DrawYourDreams from my portfolio.
+- 🌱 I’m currently learning JS and React.
+- 👯 I’m looking to collaborate on cooperation for a joint project with React.
+- 💬 Ask me about whatever you want.
+- 📫 How to reach me: write me on email or linkedin
+- ⚡ Fun fact: 
+- I learn Spanish,
+- When I was 25, I enrolled in a ballroom dancing course,
+- I love cooking and animals. 
   -->
 
 💻 Open Source Work Stats
