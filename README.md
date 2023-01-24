@@ -35,11 +35,9 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/GosiaAntoniak)](https://github.com/GosiaAntoniak)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/GosiaAntoniak)
+[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js)](https://github.com/GosiaAntoniak)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/GosiaAntoniak)](https://github.com/GosiaAntoniak)
 [![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=Webpack&logoColor=white)](https://github.com/GosiaAntoniak)
 [![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=Prettier&logoColor=white)](https://github.com/GosiaAntoniak)
-[![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/GosiaAntoniak)
-
-[![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=Node.js)](https://github.com/GosiaAntoniak)
 
