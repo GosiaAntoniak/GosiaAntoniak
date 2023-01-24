@@ -9,10 +9,10 @@
 - 💬 Ask me about whatever you want.
 - 📫 How to reach me: write me on email or linkedin
 - ⚡ Fun fact: 
-- I learn Spanish,
+- I love people and I like working in a group, 
 - When I was 25, I enrolled in a ballroom dancing course,
 - I love cooking and animals. 
-  -->
+
 
 💻 Open Source Work Stats
 
