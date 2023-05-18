@@ -42,4 +42,4 @@
   </tr>
   </table>
 
-![](https://github.com/GosiaAntoniak/github-profile-views-counter)
+![](https://komarev.com/ghpvc/?username=GosiaAntoniak&color=blue)
